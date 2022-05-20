@@ -12,7 +12,7 @@ It is recommended to use a virtual environment before installing the dependencie
 ```console
 pip install -r requirements.txt
 ```
-## Download Model
+## Download Pretrained Model
 Pretrained model is served as S3 bucket which will be made public when the corresponding thesis paperr is published
 ```console
 import wget
